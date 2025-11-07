@@ -1,7 +1,7 @@
 
-  # Projeto de Gerenciamento
+  # Projeto Hamburgueria
 
-  This is a code bundle for Projeto de Gerenciamento. The original project is available at https://www.figma.com/design/f7liJc8ISq2KmHVKiWmNMt/Projeto-de-Gerenciamento.
+  This is a code bundle for Projeto Hamburgueria. The original project is available at https://www.figma.com/design/f7liJc8ISq2KmHVKiWmNMt/Projeto-Hamburgueria.
 
   ## Running the code
 
